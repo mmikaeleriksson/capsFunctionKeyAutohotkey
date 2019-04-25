@@ -28,6 +28,9 @@ CapsLock & i::Send {Up}
 CapsLock & k::Send {Down}
 CapsLock & l::Send {Right}
 
+CapsLock & s::Volume_Down
+CapsLock & d::Volume_Up
+CapsLock & f::Volume_Mute
 CapsLock & h::home
 CapsLock & n::end
 CapsLock & '::end
