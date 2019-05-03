@@ -35,4 +35,5 @@ CapsLock & h::home
 CapsLock & n::end
 CapsLock & '::del
 CapsLock & p::PrintScreen
+CapsLock & BS::Del
 
